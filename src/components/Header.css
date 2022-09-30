@@ -1,0 +1,8 @@
+.header-container {
+    background-color: #222;
+    border-bottom: 2px solid #f88192;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
